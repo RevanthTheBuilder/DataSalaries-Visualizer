@@ -42,6 +42,6 @@ To design an interactive Tableau dashboard that provides clear visual insights i
    → The United States leads in job opportunities, followed by Germany, UK, and India based on dataset job counts.
 
 ## 10. **How does job title vary with experience?**
-    → Junior titles like Data Analyst align with entry level, while senior titles like ML Scientist align with advanced experience.
+→ Junior titles like Data Analyst align with entry level, while senior titles like ML Scientist align with advanced experience.
 
 
