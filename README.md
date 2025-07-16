@@ -51,25 +51,23 @@ To design an interactive Tableau dashboard that provides clear visual insights i
 
 ###  Project Process Summary
 
-## **📥 Data Collection**
+## ** Data Collection**
    Collected the dataset from Kaggle containing global data science job salaries with attributes like job title, location, experience, and salary.
 
-##  **🧹 Data Cleaning**
+##  ** Data Cleaning**
    Removed null values, standardized column names, and formatted salary data (USD normalization) using Python/Excel for consistent visual analysis.
 
-##  **📊 Data Exploration**
+##  ** Data Exploration**
    Explored key metrics such as average salary, job roles, experience level, employment types, and country-wise distributions using Tableau filters.
 
-##  **📈 Dashboard Design**
+##  ** Dashboard Design**
    Created interactive Tableau dashboards with dynamic filters, salary breakdowns, and KPI visuals using bar charts, maps, and line graphs.
 
-##  **🎯 KPI Identification**
+##  ** KPI Identification**
    Focused on key performance indicators (KPIs) like highest-paying roles, top countries, and salary trends by experience and company size.
 
-##  **📤 Deployment**
+##  ** Deployment**
    Exported and shared the dashboard visuals and summary insights through GitHub, making the project publicly accessible and visually intuitive.
 
-
-
-
-
+###  Final Conclusion
+The **DataSalaries-Visualizer** dashboard provides valuable insights into global data science salary trends across roles, experience levels, and locations. By leveraging interactive Tableau visualizations, users can identify high-paying opportunities, understand how factors like experience and company size affect compensation, and make informed career or hiring decisions. This project demonstrates the power of data visualization in transforming raw datasets into clear, actionable intelligence for both professionals and organizations in the data science domain.
