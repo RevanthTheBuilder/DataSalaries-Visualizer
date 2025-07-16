@@ -45,3 +45,8 @@ To design an interactive Tableau dashboard that provides clear visual insights i
 → Junior titles like Data Analyst align with entry level, while senior titles like ML Scientist align with advanced experience.
 
 
+## DashBoard
+<img width="2624" height="1499" alt="Dashboard 2" src="https://github.com/user-attachments/assets/1e989a04-33c9-4427-b1e5-127ca16efcdf" />
+
+
+
