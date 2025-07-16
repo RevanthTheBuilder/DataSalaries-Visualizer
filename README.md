@@ -45,8 +45,31 @@ To design an interactive Tableau dashboard that provides clear visual insights i
 → Junior titles like Data Analyst align with entry level, while senior titles like ML Scientist align with advanced experience.
 
 
-## DashBoard
+## Data Science Job Salaries Overview 
 <img width="2624" height="1499" alt="Dashboard 2" src="https://github.com/user-attachments/assets/1e989a04-33c9-4427-b1e5-127ca16efcdf" />
+
+
+###  Project Process Summary
+
+## **📥 Data Collection**
+   Collected the dataset from Kaggle containing global data science job salaries with attributes like job title, location, experience, and salary.
+
+##  **🧹 Data Cleaning**
+   Removed null values, standardized column names, and formatted salary data (USD normalization) using Python/Excel for consistent visual analysis.
+
+##  **📊 Data Exploration**
+   Explored key metrics such as average salary, job roles, experience level, employment types, and country-wise distributions using Tableau filters.
+
+##  **📈 Dashboard Design**
+   Created interactive Tableau dashboards with dynamic filters, salary breakdowns, and KPI visuals using bar charts, maps, and line graphs.
+
+##  **🎯 KPI Identification**
+   Focused on key performance indicators (KPIs) like highest-paying roles, top countries, and salary trends by experience and company size.
+
+##  **📤 Deployment**
+   Exported and shared the dashboard visuals and summary insights through GitHub, making the project publicly accessible and visually intuitive.
+
+
 
 
 
